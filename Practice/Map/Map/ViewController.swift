@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Map
 //
-//  Created by 田路達弥 on 2019/06/16.
+//  Created by 田路達弥 on 2019/06/15.
 //  Copyright © 2019 田路達弥. All rights reserved.
 //
 
